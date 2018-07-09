@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/color_tiffany2</color>
+    <color name="colorPrimaryDark">@color/color_tiffany3</color>
+    <color name="colorAccent">#efbe36</color>
+    <color name="color_lightest_grey">#EDEDED</color>
+    <color name="color_standard_bg">#FEFEFE</color>
+    <color name="color_standard_border">#CDCDCD</color>
+    <color name="color_tiffany1">#0ABAB5</color>
+    <color name="color_tiffany2">#81D8D0</color>
+    <color name="color_tiffany3">#0ABAB0</color>
+    <color name="color_brown">#575350</color>
+
+</resources>
